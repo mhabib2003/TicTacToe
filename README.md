@@ -2,7 +2,7 @@
 Play a game of TicTacToe with this Minimax-powered program. The computer graciously lets you go first, but winning may be harder than you think...
 
 This program was built to explore the basic concepts of the Minimax algorithm and how it can be used to employ basic Machine-Learning type techniques. 
-There is much to be modified, yet this program is more a proof of concept than a pleasant game to be played over and over again.
+There is much to be modified, yet this program is more a proof of concept than a game to be played over and over again.
 
 NOTE: This code was influenced by and partially borrowed from https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/
 and I do NOT claim this program as completely being my own work -- this program was built solely for educative purposes for myself.
